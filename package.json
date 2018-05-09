@@ -1,5 +1,5 @@
 {
-	"name": "mystyleguide",
+	"name": "nuxt-styleguide-example",
 	"scripts": {
 		"start": "nuxt"
 	},

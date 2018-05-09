@@ -1,4 +1,4 @@
-# Example Styleguide
+# Nuxt Styleguide Example
 
 Install via git and delete the .git folder 
 
@@ -6,5 +6,18 @@ Install via git and delete the .git folder
 
 
 [Or download this repo as a zip](https://github.com/sumcumo/nuxt-styleguide-example/archive/master.zip)
+
+
+Jump into the folder
+
+`cd nuxt-styleguide-example`
+
+install the dependencies
+
+`npm i`
+
+and start the server
+
+`npm start`
 
 

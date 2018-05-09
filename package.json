@@ -1,0 +1,12 @@
+{
+	"name": "mystyleguide",
+	"scripts": {
+		"start": "nuxt"
+	},
+	"author": "",
+	"engines": { "node": "^9.0.0" },
+	"dependencies": {
+		"nuxt": "^1.4.0",
+		"@sum.cumo/nuxt-styleguide": "^2.17.0"
+	}
+}
